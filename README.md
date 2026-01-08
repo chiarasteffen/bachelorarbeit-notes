@@ -115,5 +115,3 @@ Unter `/literature` werden Quellen und Notizen gesammelt, z. B.:
 
 ---
 
-Hochschule: [Hochschule]  
-Jahr: [Jahr]  
